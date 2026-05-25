@@ -1,5 +1,10 @@
 # IDEA-Theme
 
+Gren (Matcha Bag): #A6BA96
+Bamboo Mat: #D3BE94
+Tamper (Whisk): #DAB673
+Bowl: #3A3026
+
 ![Build](https://github.com/StevenKing-Profile/IDEA-Theme/workflows/Build/badge.svg)
 [![Version](https://img.shields.io/jetbrains/plugin/v/MARKETPLACE_ID.svg)](https://plugins.jetbrains.com/plugin/MARKETPLACE_ID)
 [![Downloads](https://img.shields.io/jetbrains/plugin/d/MARKETPLACE_ID.svg)](https://plugins.jetbrains.com/plugin/MARKETPLACE_ID)
@@ -43,3 +48,26 @@ Plugin based on the [IntelliJ Platform Plugin Template][template].
 
 [template]: https://github.com/JetBrains/intellij-platform-plugin-template
 [docs:plugin-description]: https://plugins.jetbrains.com/docs/intellij/plugin-user-experience.html#plugin-description-and-presentation
+
+# shades
+bbcc99
+99AA77
+667744
+44512B
+
+FFE57F
+F6EBC0
+ECD8A5
+D4BD79
+BFA763
+
+#D6DBD0
+CED4C7
+E3DEC3
+DDD8BC
+EFECE1
+
+
+Panel.background is run menu and also "premium button"
+ToolWindow.background is tool window's background where files are
+StatusBar.Background is bottom-most bar

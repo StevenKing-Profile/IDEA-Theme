@@ -2,6 +2,12 @@
   <configuration default="false" name="Run Plugin" type="GradleRunConfiguration" factoryName="Gradle">
     <log_file alias="IDE logs" path="$PROJECT_DIR$/.intellijPlatform/sandbox/*/*/log/idea.log" show_all="true" />
     <ExternalSystemSettings>
+      <option name="env">
+        <map>
+          <entry key="JAVA_HOME" value="$USER_HOME$/.local/share/mise/installs/java/21.0.2" />
+          <entry key="PATH" value="$USER_HOME$/.local/share/mise/installs/java/21/bin:$USER_HOME$/.local/share/mise/installs/node/22/bin:$USER_HOME$/.cargo/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin" />
+        </map>
+      </option>
       <option name="executionName" />
       <option name="externalProjectPath" value="$PROJECT_DIR$" />
       <option name="externalSystemIdString" value="GRADLE" />
@@ -18,8 +24,11 @@
     </ExternalSystemSettings>
     <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
     <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+    <ExternalSystemDebugDisabled>false</ExternalSystemDebugDisabled>
     <DebugAllEnabled>false</DebugAllEnabled>
     <RunAsTest>false</RunAsTest>
+    <GradleProfilingDisabled>false</GradleProfilingDisabled>
+    <GradleCoverageDisabled>false</GradleCoverageDisabled>
     <method v="2" />
   </configuration>
 </component>

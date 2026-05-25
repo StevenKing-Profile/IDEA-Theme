@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scheme name="MatchaEditor" version="142" parent_scheme="Default">
+  <metaInfo>
+    <property name="ide">idea</property>
+    <property name="ideVersion">2021.1</property>
+    <property name="isDark">false</property>
+  </metaInfo>
+  <colors>
+    <option name="CARET_ROW_COLOR" value="#778855" />
+    <option name="SELECTION_BACKGROUND" value="#889966" />
+    <option name="SELECTION_FOREGROUND" value="#ECD8A5" />
+    <option name="LINE_NUMBERS_COLOR" value="#aabb88" />
+    <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="#ffebaa" />
+  </colors>
+
+  <attributes>
+    <option name="TEXT">
+      <value>
+        <option name="FOREGROUND" value="F2F4EB" />
+        <option name="BACKGROUND" value="2D3522" />
+      </value>
+    </option>
+
+    <option name="DEFAULT_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="#C9F27E" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+
+    <option name="DEFAULT_CLASS_NAME">
+      <value>
+        <option name="FOREGROUND" value="#FFF9E0" />
+      </value>
+    </option>
+    <option name="DEFAULT_INTERFACE_NAME">
+      <value>
+        <option name="FOREGROUND" value="#D1E8BA" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+
+    <option name="DEFAULT_FUNCTION_DECLARATION">
+      <value>
+        <option name="FOREGROUND" value="9CDCFE" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+
+    <option name="DEFAULT_FUNCTION_CALL">
+      <value><option name="FOREGROUND" value="80E5FF" /></value>
+    </option>
+
+    <option name="DEFAULT_LOCAL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="D4CEB8" />
+        <option name="FONT_TYPE" value="0" />
+      </value>
+    </option>
+    <option name="DEFAULT_PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="D4CEB8" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+
+
+    <option name="DEFAULT_STRING">
+      <value>
+        <option name="FOREGROUND" value="FFAA73" />
+      </value>
+    </option>
+
+    <option name="DEFAULT_METADATA"><value><option name="FOREGROUND" value="FFD066" /></value></option>
+
+    <option name="DEFAULT_DOC_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="44512B" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+
+  </attributes>
+</scheme>

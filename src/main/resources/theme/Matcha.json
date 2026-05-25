@@ -1,0 +1,53 @@
+{
+  "name": "Matcha",
+  "dark": false,
+  "author": "Steven",
+  "editorScheme": "MatchaEditor.xml",
+  "ui": {
+    "Panel.background": "#bbcc99",
+    "Checkbox.background": "#bbcc99",
+    "Editor.background": "667744",
+
+    "MainToolbar.background": "#667744",
+    "MainToolbar.inactiveBackground": "#44512B",
+
+    "ToolWindow.Header.inactiveBackground": "#667744",
+    "ToolWindow.Stripe.background": "#99AA77",
+    "ActionButton.hoverBackground": "#BBCC99",
+    "ActionButton.pressedBackground": "#BBCC99",
+    "ActionButton.pressedBorderColor": "FFE57F",
+    "ActionButton.foreground": "#BBCC99",
+    "ToolWindow.Button.foreground": "BBCC99",
+    "ToolWindow.Button.selectedBackground": "BBCC99",
+    "ToolWindow.Button.selectedForeground": "ECD8A5",
+    "ToolWindow.Button.inactiveBackground": "BBCC99",
+    "ToolWindowHeader.inactiveBackground": "BFA763",
+    "ToolWindow.background": "#bbcc99",
+
+    "ToolWindow.Stripe.unselectedIconForeground": "#667744",
+    "ToolWindow.Stripe.selectedIconForeground": "#CCDDAB",
+    "ToolWindow.Stripe.hoveredIconForeground": "#667744",
+
+    "EditorTabs.background": "#99AA77",
+    "EditorTabs.inactiveMaskColor": "#99AA77",
+    "EditorTabs.hoverInactiveBackground": "#FFE57F",
+    "EditorTabs.underlinedTabBackground": "#D4BD79",
+    "EditorTabs.tabHeight": "28",
+    "TabbedPane.tabSelectionHeight": "0",
+    "EditorTabs.borderColor": "#99AA77",
+    "EditorTabs.borderThickness": "0",
+    "EditorTabs.margin": [4, 6, 4, 6],
+    "EditorTabs.trackBackground": "#D4BD79",
+
+    "Terminal.background": "#5b9b56",
+    "Terminal.foreground": "#F6EBC0",
+    "Terminal.tab.background": "#c3e1b5",
+    "Terminal.tab.selectedBackground": "#24273A",
+    "TitlePane.background": "#99AA77",
+    "TitlePane.inactiveBackground": "#c3e1b5",
+    "TitlePane.infoForeground": "#3b6b3c",
+    "TitlePane.inactiveInfoForeground": "#5b9b56",
+
+    "StatusBar.background": "#99AA77"
+  }
+}
